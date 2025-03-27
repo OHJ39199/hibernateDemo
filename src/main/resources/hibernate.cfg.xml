@@ -33,7 +33,8 @@
         <mapping class="com.miap.modelo.Usuario"/>
         <mapping class="com.miap.modelo.CuentaSeguridadSocial"/>
         <mapping class="com.miap.modelo.Direccion"/>
-        <mapping class="com.miap.modelo.ModalidadAfiliacion"/>
+        <mapping class="com.miap.modelo.ModalidadesAfiliacion"/>
+        <mapping class="com.miap.modelo.Organizacion"/>
 
     </session-factory>
 </hibernate-configuration>
